@@ -15,7 +15,6 @@ DerivedData/
 !default.mode2v3
 *.perspectivev3
 !default.perspectivev3
-xcuserdata/
 
 ## Other
 *.moved-aside
@@ -79,4 +78,6 @@ iOSInjectionProject/
 .DS_Store
 *.xcodeproj
 *.xcworkspace
-UserInterfaceState.xcuserstate
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
