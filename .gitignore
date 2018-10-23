@@ -81,4 +81,4 @@ iOSInjectionProject/
 *.xcodeproj/
 *.xcworkspace
 !default.xcworkspace
-*.xcuserstate
+**/*.xcuserstate
