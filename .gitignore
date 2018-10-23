@@ -79,3 +79,5 @@ iOSInjectionProject/
 .DS_Store
 
 *.xcodeproj
+*.xcworkspace
+!default.xcworkspace
