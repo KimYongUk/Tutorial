@@ -77,8 +77,5 @@ fastlane/test_output
 iOSInjectionProject/
 
 .DS_Store
-
-*.xcodeproj/
+*.xcodeproj
 *.xcworkspace
-!default.xcworkspace
-**/*.xcuserstate
